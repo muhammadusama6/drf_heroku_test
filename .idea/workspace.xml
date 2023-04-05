@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="164e77e6-d448-450d-9c12-117e50528b60" name="Changes" comment="" />
+    <list default="true" id="164e77e6-d448-450d-9c12-117e50528b60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/taskapi/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskapi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProjectTest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProjectTest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/786/PycharmProjects/djangoProjectTest",
+    "last_opened_file_path": "C:/Users/786/PycharmProjects/djangoProject3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,7 +84,10 @@
       <workItem from="1680504102469" duration="223000" />
       <workItem from="1680504432823" duration="1678000" />
       <workItem from="1680510181077" duration="5017000" />
-      <workItem from="1680599247375" duration="397000" />
+      <workItem from="1680599247375" duration="1753000" />
+      <workItem from="1680605040324" duration="1173000" />
+      <workItem from="1680622183171" duration="260000" />
+      <workItem from="1680680921982" duration="329000" />
     </task>
     <servers />
   </component>
