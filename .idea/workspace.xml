@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164e77e6-d448-450d-9c12-117e50528b60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/taskapi/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProjectTest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProjectTest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/urls.py" afterDir="false" />
     </list>
@@ -87,7 +86,7 @@
       <workItem from="1680599247375" duration="1753000" />
       <workItem from="1680605040324" duration="1173000" />
       <workItem from="1680622183171" duration="260000" />
-      <workItem from="1680680921982" duration="329000" />
+      <workItem from="1680680921982" duration="1143000" />
     </task>
     <servers />
   </component>
