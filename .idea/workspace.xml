@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164e77e6-d448-450d-9c12-117e50528b60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProjectTest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProjectTest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectTest/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/786/PycharmProjects/djangoProject3",
+    "last_opened_file_path": "C:/Users/786/PycharmProjects/Resturant",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,7 +85,9 @@
       <workItem from="1680599247375" duration="1753000" />
       <workItem from="1680605040324" duration="1173000" />
       <workItem from="1680622183171" duration="260000" />
-      <workItem from="1680680921982" duration="1143000" />
+      <workItem from="1680680921982" duration="2552000" />
+      <workItem from="1680684485059" duration="194000" />
+      <workItem from="1680687268299" duration="2622000" />
     </task>
     <servers />
   </component>
